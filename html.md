@@ -591,11 +591,47 @@ Text
 Text
 
 <a id="12"></a>
-## HTML - Media
+
+## HTML - APIS
 
 <a id="12"></a>
-### 
+
+### Geolocation
 
 Text
 
-blah
+<a id="12"></a>
+
+### Drag/Drop
+
+Text
+
+<a id="12"></a>
+
+### Web Storage
+
+Text
+
+<a id="12"></a>
+
+### Web Workers
+
+Text
+
+<a id="12"></a>
+
+### SSE
+
+Text
+
+<a id="12"></a>
+
+### Practice Quiz
+
+Text
+
+<a id="12"></a>
+
+### Code Challenge - APIs
+
+Text
