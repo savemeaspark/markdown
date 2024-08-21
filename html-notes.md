@@ -563,19 +563,24 @@ Text
 Text
 
 <a id="10h"></a>
+
 ### Code Challenge - Forms
 
 Text
 
 <a id="11"></a>
+
 ## HTML - Graphics
 
 <a id="11a"></a>
+
 ### Canvas
 
 Text
 
 <a id="11b"></a>
+
+
 ### SVG
 
 Text
@@ -586,14 +591,17 @@ Text
 Text
 
 <a id="11d"></a>
+
 ### Code Challenge - Graphics
 
 Text
 
 <a id="12"></a>
+
 ## HTML - Media
 
 <a id="12"></a>
+
 ### 
 
 Text
